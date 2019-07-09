@@ -1,4 +1,5 @@
 @echo off
+echo RubberDUSB 1.0 By Alan Kubiak...
 set /p "recording=Give macro a name: "
 echo Enable mouse movements?
 choice /c YN
